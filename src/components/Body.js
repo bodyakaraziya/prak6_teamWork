@@ -15,6 +15,13 @@ const Body = () => {
                   <p style={styles.position}>QA</p>
               </div>
       </div>
+<div style={styles.card}>
+              <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Anna Kryshtal</h2>
+          <p style={styles.position}>Designer</p>
+        </div>
+      </div>
     </main>
   );
 };
