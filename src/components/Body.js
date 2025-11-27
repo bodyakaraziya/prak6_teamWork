@@ -20,7 +20,7 @@ const Body = () => {
               </div>
       </div>
 <div style={styles.card}>
-        <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} /> // for new pull
+        <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Anna Kryshtal</h2>
           <p style={styles.position}>Designer</p>
