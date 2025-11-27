@@ -5,14 +5,14 @@ const Body = () => {
     <main style={styles.body}>
       <div style={styles.card}>
               <img src={"/bohdan.png"} alt="Bohdan Karaziia" style={styles.photo} />
-        <div style={styles.textContainer}>
-          <h2 style={styles.name}>Bohdan Karaziia</h2>
-          <p style={styles.position}>QA</p>
-              </div>
+              <div style={styles.textContainer}>
+                <h2 style={styles.name}>Bohdan Karaziia</h2>
+                <p style={styles.position}>QA</p>
+
               <img src={"/maks.png"} alt="Melenevych Maksym" style={styles.photo} />
               <div style={styles.textContainer}>
-                  <h2 style={styles.name}>Bohdan Karaziia</h2>
-                  <p style={styles.position}>QA</p>
+                  <h2 style={styles.name}>Melenevych Maksym</h2>
+                  <p style={styles.position}>Developer</p>
               </div>
       </div>
     </main>
