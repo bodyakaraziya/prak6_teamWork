@@ -1,4 +1,4 @@
-// Release
+// Comment for pulling
 
 import React from "react";
 
@@ -10,6 +10,27 @@ const Body = () => {
               <div style={styles.textContainer}>
                 <h2 style={styles.name}>Bohdan Karaziia</h2>  
                 <p style={styles.position}>QA</p>
+                </div>
+              </div>
+              <div style={styles.card}>
+              <img src={"/maks.png"} alt="Melenevych Maksym" style={styles.photo} /> // for new pull
+              <div style={styles.textContainer}>
+                  <h2 style={styles.name}>Melenevych Maksym</h2>
+                  <p style={styles.position}>Developer</p>
+              </div>
+      </div>
+<div style={styles.card}>
+        <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} /> // for new pull
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Anna Kryshtal</h2>
+          <p style={styles.position}>Designer</p>
+        </div>
+          </div>
+          <div style={styles.card}>
+              <img src={"/YevheniiPhoto.jpg"} alt="Yevhenii Hovykovych" style={styles.photo} />
+              <div style={styles.textContainer}>
+                  <h2 style={styles.name}>Yevhenii Hovykovych</h2>
+                  <p style={styles.position}>BA</p>
               </div>
           </div>
     </main>
