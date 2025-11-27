@@ -8,7 +8,7 @@ const Body = () => {
       <div style={styles.card}>
               <img src={"/bohdan.png"} alt="Bohdan Karaziia" style={styles.photo} />
               <div style={styles.textContainer}>
-                <h2 style={styles.name}>Bohdan Karaziia</h2>
+                <h2 style={styles.name}>Bohdan Karaziia</h2>  
                 <p style={styles.position}>QA</p>
                 </div>
               </div>
@@ -21,6 +21,7 @@ const Body = () => {
       </div>
 <div style={styles.card}>
               <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} />
+
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Anna Kryshtal</h2>
           <p style={styles.position}>Designer</p>
