@@ -1,6 +1,5 @@
 // Testing comment
 // Comment for pulling
-// Another comment
 
 import React from "react";
 
