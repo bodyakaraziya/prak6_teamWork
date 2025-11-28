@@ -6,21 +6,20 @@ const Body = () => {
   return (
     <main style={styles.body}>
       <div style={styles.card}>
-              <img src={"/bohdan.png"} alt="Bohdan Karaziia (merge conflict)" style={styles.photo} />
               <div style={styles.textContainer}>
                 <h2 style={styles.name}>Bohdan Karaziia</h2>  
                 <p style={styles.position}>QA</p>
                 </div>
               </div>
               <div style={styles.card}>
-              <img src={"/maks.png"} alt="Melenevych Maksym" style={styles.photo} /> // for new pull
+              <img src={"/maks.png"} alt="Melenevych Maksym" style={styles.photo} />
               <div style={styles.textContainer}>
                   <h2 style={styles.name}>Melenevych Maksym</h2>
                   <p style={styles.position}>Developer</p>
               </div>
       </div>
 <div style={styles.card}>
-        <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} /> // for new pull
+        <img src={"/anna.jpg"} alt="Anna Kryshtal" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Anna Kryshtal</h2>
           <p style={styles.position}>Designer</p>
