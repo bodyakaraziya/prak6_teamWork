@@ -7,7 +7,7 @@ const Body = () => {
     <main style={styles.body}>
       <div style={styles.card}>
               <div style={styles.textContainer}>
-                <h2 style={styles.name}>Bohdan Karaziia</h2>  
+                <h2 style={styles.name}>♥ Bohdan Karaziia ♥</h2>  
                 <p style={styles.position}>QA</p>
                 </div>
               </div>
